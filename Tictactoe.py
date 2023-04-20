@@ -14,7 +14,7 @@ while playing:
     draw_board(spots)
 
     if prev_turn == turn:
-         print('Inavlid spot selected, please pick another one')
+         print('Invalid spot selected, please pick another one')
 
     prev_turn = turn
 
